@@ -1,0 +1,7 @@
+{
+  "name": "ProMo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
